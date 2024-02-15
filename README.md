@@ -7,7 +7,7 @@
     <tr>
         <td style="text-align: center;font-size: 40px">Damage</td>
         <td style="text-align: center;font-size: 40px">
-            [Pytaria](Damage/Pytaria.md)
+            <a href="Damage/Pytaria.md">
             <br>Nightmare
             <br>Witcher
             <br>Taker
