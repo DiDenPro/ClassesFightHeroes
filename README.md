@@ -11,7 +11,7 @@
         <td style="text-align: center;font-size: 40px">Hexbane</td>
     </tr>
     <tr>
-        <td style="text-align: center;font-size: 40px">
+        <td style="text-align: center;font-size: 40px;vertical-align: top;">
             <a href="Damage/Pytaria.md">Pytaria</a>
             <br>Nightmare
             <br>Witcher
@@ -22,24 +22,24 @@
             <br>Zealot
             <br>Rogue
         </td>
-        <td style="text-align: center;font-size: 40px">
+        <td style="text-align: center;font-size: 40px;vertical-align: top;">
             Archer
             <br>Spark
             <br>Swooper
         </td>
-        <td style="text-align: center;font-size: 40px">
+        <td style="text-align: center;font-size: 40px;vertical-align: top;">
             Mage
             <br>Dark Mage
         </td>
-        <td style="text-align: center;font-size: 40px">
+        <td style="text-align: center;font-size: 40px;vertical-align: top;">
             Blast Knight
         </td>
-        <td style="text-align: center;font-size: 40px">
+        <td style="text-align: center;font-size: 40px;vertical-align: top;">
             Ender
             <br>Ninja
             <br>Bounty Hunter
         </td>
-        <td style="text-align: center;font-size: 40px">
+        <td style="text-align: center;font-size: 40px;vertical-align: top;">
             Alchemmist
             <br>Troll
             <br>Dr. Ed
