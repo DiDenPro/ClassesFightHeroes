@@ -18,50 +18,61 @@
             <br>Rogue
         </td>
     </tr>
+    <tr>
+        <td style="text-align: center;font-size: 40px">Range</td>
+        <td style="text-align: center;font-size: 40px">
+            Archer
+            <br>Spark
+            <br>Swooper
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: center;font-size: 40px">Magic</td>
+        <td style="text-align: center;font-size: 40px">
+            Mage
+            <br>Dark Mage
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: center;font-size: 40px">Defence</td>
+        <td style="text-align: center;font-size: 40px">
+            Blast Knight
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: center;font-size: 40px">Mobility</td>
+        <td style="text-align: center;font-size: 40px">
+            Ender
+            <br>Ninja
+            <br>Bounty Hunter
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: center;font-size: 40px">Strategy</td>
+        <td style="text-align: center;font-size: 40px">
+            Alchemmist
+            <br>Troll
+            <br>Dr. Ed
+            <br>Shadow Assassin
+            <br>Vortex
+            <br>Tamer
+            <br>Shark
+            <br>Harbinger
+            <br>Engineer
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: center;font-size: 40px">Support</td>
+        <td style="text-align: center;font-size: 40px">
+            Shaman
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: center;font-size: 40px">Hexbane</td>
+        <td style="text-align: center;font-size: 40px">
+            Frostbite
+        <br>Juju
+        <br>Cryptshade
+        </td>
+    </tr>
 </table>
-## **Damage**
-
->
-
-## Range
-
->Archer
-<br>Spark
-<br>Swooper
-
-## Magic
-
->Mage
-<br>Dark Mage
-
-## Defence
-
->Blast Knight
-
-## Mobility
-
->Ender
-<br>Ninja
-<br>Bounty Hunter
-
-## Strategy
-
->Alchemmist
-<br>Troll
-<br>Dr. Ed
-<br>Shadow Assassin
-<br>Vortex
-<br>Tamer
-<br>Shark
-<br>Harbinger
-<br>Engineer
-
-## Support
-
->Shaman
-
-## Hexbane
-
->Frostbite
-<br>Juju
-<br>Cryptshade
