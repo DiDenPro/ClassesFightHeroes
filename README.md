@@ -1,16 +1,27 @@
 # List of Heroes
-
+<table style="width: 100%">
+    <tr>
+        <th style="text-align: center;font-size: 40px">Type</th>
+        <th style="text-align: center;font-size: 40px">Heroes</th>
+    </tr>
+    <tr>
+        <td style="text-align: center;font-size: 40px">Damage</td>
+        <td style="text-align: center;font-size: 40px">
+            [Pytaria](Damage/Pytaria.md)
+            <br>Nightmare
+            <br>Witcher
+            <br>Taker
+            <br>Heavy Knight
+            <br>Pakarat Rakab
+            <br>Bloodfiend
+            <br>Zealot
+            <br>Rogue
+        </td>
+    </tr>
+</table>
 ## **Damage**
 
->[Pytaria](Damage/Pytaria.md)
-<br>Nightmare
-<br>Witcher
-<br>Taker
-<br>Heavy Knight
-<br>Pakarat Rakab
-<br>Bloodfiend
-<br>Zealot
-<br>Rogue
+>
 
 ## Range
 
