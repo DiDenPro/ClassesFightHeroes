@@ -1,5 +1,5 @@
 # List of Heroes
-<table style="width: 100%">
+<!-- <table style="width: 100%">
     <tr>
         <td style="text-align: center;font-size: 40px">Damage</td>
         <td style="text-align: center;font-size: 40px">Range</td>
@@ -50,7 +50,6 @@
             <br>Harbinger
             <br>Engineer
         </td>
-        <td style="text-align: center;font-size: 40px">Support</td>
         <td style="text-align: center;font-size: 40px">
             Shaman
         </td>
@@ -60,7 +59,7 @@
         <br>Cryptshade
         </td>
     </tr>
-</table>
+</table> -->
 
 |Damage|Range|Magic|Defence|Mobility|Strategy|Support|
 |---|---|---|---|---|---|---|
