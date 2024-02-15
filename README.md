@@ -76,3 +76,7 @@
         </td>
     </tr>
 </table>
+
+|Type|Heroes|
+|---|---|
+|Damage|[Pytaria](Damage/Pytaria.md)<br>Nightmare<br>Witcher<br>Taker<br>Heavy Knight<br>Pakarat Rakab<br>Bloodfiend<br>Zealot<br>Rogue|
