@@ -14,7 +14,7 @@
 </table>
 
 >Beautiful yet deadly opponent with addiction to flowers.<br>She suffered all her youth, which, in the end, only made her stronger.
-<br><br>Archetype: 💢<span style="color:darkred"> Damage
+<br><br>Archetype: 💢<span style="color:darkred"> <b>Damage</b>
 
 
 <br>
@@ -68,7 +68,7 @@
 </table>
 <table style="width: 100%">
     <tr>
-        <td style="text-align: center;font-size: 25px;color:green">Annihilallium
+        <td style="text-align: center;font-size: 25px;color:green"><b>Annihilallium</b>
         </td>
         <td style="text-align: center;font-size: 25px;width:55%;color:white">A beautiful flower, nothing more.
         </td>
@@ -95,9 +95,7 @@
             Throw a deadly flower at your current location and dash backwards
             <br><br>The flower will continuously pu8lse and deal damage to nearby players
             <br><br>After the duration is over, it will explode dealing 
-            <span style="color:cyan">
-                double
-            </span>
+            <b>double</b>
             the damage.
         </span>
     </td>
@@ -130,9 +128,9 @@
         <br>
         <span style="color:white">
             Feel the breeze of the flowers tha damages you but grants
-            <span style="color:darkred">🗡Attack</span> and 
-            <span style="color:green">🛡Defence</span> boost for 4s.
-            <br><br><span style="color:gray">This ability can't kill</span>
+            <b>🗡Attack</b> and 
+            <b>🛡Defence</b> boost for <b>4s</b>.
+            <br><br><i>This ability can't kill</i>
         </span>
         <br><br><br><br><br>
     </td>
@@ -163,9 +161,9 @@
         Enhance Passive
         <br>
         <span style="color:white">
-            The less health Pytaria has, the more her 
-            <span style="color:darkred">🗡Attack</span> and 
-            <span style="color:#5555ff">☢Crit Chance</span> increases. But her <span style="color:green">🛡Defence</span> significantly decreases. 
+            The less <b>health</b> Pytaria has, the more her 
+            <b>🗡Attack</b> and 
+            <b>☢Crit Chance</b> increases. But her <b>🛡Defence</b> significantly decreases. 
         </span>
     </td>
   </tr>
@@ -180,16 +178,15 @@
         <br>
         <span style="color:white">
             Summon a blooming 
-            <span style="color:orange">Bee</span> in front of 
-            <span style="color:green">Pytaria.</span><br><br>
+            <b">Bee</b> in front of 
+            <b>Pytaria.</b><br><br>
             The Bee will lock on the closest enemy and charge for
-            <span style="color:cyan">2.5s.</span> <br><br>
+            <b>2.5s.</b> <br><br>
             Once charged, the 
-            <span style="color:orange">Bee</span> creates an explosion at the locked location, dealing damage in small 
-            <span style="color:yellow">AoE</span>.<br><br>
-            Also regenerates <span style="color:red">40% ♥</span> of <span style="color:green">Pytaria's</span> missing health.
+            <b>Bee</b> creates an explosion at the locked location, dealing damage in small 
+            <b>AoE</b>.<br><br>
+            Also regenerates <b>40% ♥</b> of <b>Pytaria's</b> missing health.
         </span>
-        <br><br><br><br><br>
     </td>
     <td style="text-align: left;color:gray;font-size: 25px;width:50%">
         Details
