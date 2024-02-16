@@ -1,4 +1,9 @@
 # List of Heroes
+
+|Damage|Range|Magic|Defence|Mobility|Strategy|Support|
+|---|---|---|---|---|---|---|
+[Pytaria](Damage/Pytaria.md)<br>[Nightmare](Damage/Nightmare.md)<br>[Witcher](Damage/Witcher.md)<br>Taker<br>Heavy Knight<br>Pakarat Rakab<br>Bloodfiend<br>Zealot<br>Rogue | Archer<br>Spark<br>Swooper | Mage<br>Dark Mage | Blast Knight | Ender<br>Ninja<br>Bounty Hunter | Alchemmist<br>Troll<br>Dr. Ed<br>Shadow Assassin<br>Vortex<br>Tamer<br>Shark<br>Harbinger<br>Engineer | Shaman | Frostbite<br>Juju<br>Cryptshade
+
 <!-- <table style="width: 100%">
     <tr>
         <td style="text-align: center;font-size: 40px">Damage</td>
@@ -60,7 +65,3 @@
         </td>
     </tr>
 </table> -->
-
-|Damage|Range|Magic|Defence|Mobility|Strategy|Support|
-|---|---|---|---|---|---|---|
-[Pytaria](Damage/Pytaria.md)<br>Nightmare<br>Witcher<br>Taker<br>Heavy Knight<br>Pakarat Rakab<br>Bloodfiend<br>Zealot<br>Rogue | Archer<br>Spark<br>Swooper | Mage<br>Dark Mage | Blast Knight | Ender<br>Ninja<br>Bounty Hunter | Alchemmist<br>Troll<br>Dr. Ed<br>Shadow Assassin<br>Vortex<br>Tamer<br>Shark<br>Harbinger<br>Engineer | Shaman | Frostbite<br>Juju<br>Cryptshade
