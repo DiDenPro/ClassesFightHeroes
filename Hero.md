@@ -184,6 +184,7 @@
             Description
         </span>
     </td>
+    <td></td>
   </tr>
 
   <tr>

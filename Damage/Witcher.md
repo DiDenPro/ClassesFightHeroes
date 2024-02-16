@@ -242,6 +242,7 @@
             <br><br>Greater combo hits deal <b>increase damage</b>.
         </span>
     </td>
+    <td></td>
   </tr>
 
   <tr>

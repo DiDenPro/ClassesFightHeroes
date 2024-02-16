@@ -155,6 +155,7 @@
             <b>🌊 Speed</b> increases.
         </span>
     </td>
+    <td></td>
   </tr>
 
   <tr>

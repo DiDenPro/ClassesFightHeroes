@@ -163,6 +163,7 @@
             <b>☢Crit Chance</b> increases. But her <b>🛡Defence</b> significantly decreases. 
         </span>
     </td>
+    <td></td>
   </tr>
 
   <tr>
