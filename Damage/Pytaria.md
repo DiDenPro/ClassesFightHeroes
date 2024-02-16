@@ -1,5 +1,3 @@
-<div id="Damage" style="display: none;"><span style="color:darkred"> <b>💢 Damage</b></span></div>
-
 <table style="width: 100%">
     <tr>
         <th style="text-align: center;font-size: 40px">Pytaria</th>
@@ -15,7 +13,7 @@
 </table>
 
 >Beautiful yet deadly opponent with addiction to flowers.<br>She suffered all her youth, which, in the end, only made her stronger.
-<br><br>Archetype: <span id="DamageValue">
+<br><br>Archetype: <span style="color:darkred"> <b>💢 Damage</b></span>
 
 
 <br>
@@ -204,7 +202,3 @@
     </td>
   </tr>
 </table>
-
-<script>
-  document.getElementById('DamageValue').textContent = document.getElementById('Damage').textContent;
-</script>
