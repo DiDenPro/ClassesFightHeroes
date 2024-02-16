@@ -205,7 +205,13 @@
         <span style="color:darkgray">
             <span style="color:white">Type</span>
             <br>
-                Description
+                Deals damage to enemies
+            <br>
+            <br>Cooldown: <span style="color:white">50s</span>
+            <br>Duration: <span style="color:white">3s</span>
+            <br>Health Regen Percent: <span style="color:white">40</span>
+            <br>Ultimate Cost: <span style="color:white">60 ※</span>
+            <br>Cast Duration: <span style="color:white">2.5s</span>
         </span>
     </td>
   </tr>
