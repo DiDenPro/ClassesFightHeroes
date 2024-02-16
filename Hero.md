@@ -25,36 +25,36 @@
 <table style="width: 100%;">
   <tr>
     <th style="text-align: center;font-size: 25px">Health</th>
-    <td style="text-align: center;color:red;font-size: 30px">♥ N/D</td>
+    <td style="text-align: center;color:red;font-size: 30px">♥ </td>
   </tr>
     <th style="text-align: center;font-size: 25px">Attack</th>
-    <td style="text-align: center;color:darkred;font-size: 30px">🗡 N/D</td>
+    <td style="text-align: center;color:darkred;font-size: 30px">🗡 </td>
   <tr>
     <th style="text-align: center;font-size: 25px">Defence</th>
-    <td style="text-align: center;color:green;font-size: 30px">🛡 N/D</td>
+    <td style="text-align: center;color:green;font-size: 30px">🛡 </td>
   </tr>
   <tr>
     <th style="text-align: center;font-size: 25px">Speed</th>
     <td style="text-align: center;color:red;font-size: 30px">
-        <span style="color:lightblue">🌊 N/D%
+        <span style="color:lightblue">🌊 %
     </td>
   </tr>
   <tr>
     <th style="text-align: center;font-size: 25px">Crit Chance</th>
     <td style="text-align: center;color:red;font-size: 30px">
-        <span style="color:#5555ff">☢ N/D%
+        <span style="color:#5555ff">☢ %
     </td>
   </tr>
   <tr>
     <th style="text-align: center;font-size: 25px">Crit Damage</th>
     <td style="text-align: center;color:red;font-size: 30px">
-        <span style="color:#5555ff">☠ N/D%
+        <span style="color:#5555ff">☠ %
     </td>
   </tr>
   <tr>
     <th style="text-align: center;font-size: 25px">Attack Speed</th>
     <td style="text-align: center;color:red;font-size: 30px">
-        <span style="color:#ffff55">⚔ N/D%
+        <span style="color:#ffff55">⚔ %
     </td>
   </tr>
 </table>
