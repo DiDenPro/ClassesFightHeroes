@@ -1,4 +1,3 @@
-
 <table style="width: 100%">
     <tr>
         <th style="text-align: center;font-size: 40px">Pytaria</th>
@@ -113,7 +112,6 @@
             <br>Flower Radius: <span style="color:white">2.5 blocks</span>
             <br>Flower Damage: <span style="color:white">5</span>
             <br>Pulse period: <span style="color:white">1s</span>
-            <br><br><br>
         </span>
     </td>
   </tr>
@@ -132,7 +130,6 @@
             <b>🛡Defence</b> boost for <b>4s</b>.
             <br><br><i>This ability can't kill</i>
         </span>
-        <br><br><br><br><br>
     </td>
     <td style="text-align: left;color:gray;font-size: 25px;width:50%">
         Details
@@ -201,7 +198,6 @@
             <br>Health Regen Percent: <span style="color:white">40</span>
             <br>Ultimate Cost: <span style="color:white">60 ※</span>
             <br>Cast Duration: <span style="color:white">2.5s</span>
-            <br><br><br><br><br><br><br><br><br><br><br>
         </span>
     </td>
   </tr>

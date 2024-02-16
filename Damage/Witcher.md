@@ -5,7 +5,7 @@
     </tr>
 </table>
 
-![Pytaria Selfie](Witcher.png)
+![The Witcher Selfie](Witcher.png)
 
 <table style="width: 100%">
     <tr>
