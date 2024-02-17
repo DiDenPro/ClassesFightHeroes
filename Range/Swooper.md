@@ -65,9 +65,9 @@
             <br><i>Looks like a gift from someone important.</i>
             <br><b>Ability: Scope SNEAK</b>
             <br>Activates a sniper score, increase the max bullet distance.
-            <br><br>Ability: Shoot RIGHT CLICK
+            <br><br><b>Ability: Shoot RIGHT CLICK</b>
             <br>Shoot your weapon.
-            <br><br>Ability: Stun ATTACK
+            <br><br><b>Ability: Stun ATTACK</b>
             <br>Hitting an <b>enemy</b> with your rifle has a small chance to <b>stun</b> them.
             <br><br>ATTRIBUTES:
             <br>FIRE RATE: 2s
