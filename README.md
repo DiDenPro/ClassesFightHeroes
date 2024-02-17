@@ -2,7 +2,7 @@
 
 |Damage|Range|Magic|Defence|Mobility|Strategy|Support|
 |---|---|---|---|---|---|---|
-[Pytaria](Damage/Pytaria.md)<br>[Nightmare](Damage/Nightmare.md)<br>[Witcher](Damage/Witcher.md)<br>[Taker](Damage/Taker.md)<br>[Heavy Knight](Damage/HeavyKnight.md)<br>[Pakarat Rakab](Damage/PakaratRakab.md)<br>[Bloodfiend](Damage/Bloodfiend.md)<br>[Zealot](Damage/Zealot.md)<br>[Rogue](Damage/Rogue.md) | [Archer](Range/Archer.md)<br>[Spark](Range/Spark.md)<br>[Swooper](Range/Swooper.md) | Mage<br>Dark Mage | Blast Knight | Ender<br>Ninja<br>Bounty Hunter | Alchemmist<br>Troll<br>Dr. Ed<br>Shadow Assassin<br>Vortex<br>Tamer<br>Shark<br>Harbinger<br>Engineer | Shaman | Frostbite<br>Juju<br>Cryptshade
+[Pytaria](Damage/Pytaria.md)<br>[Nightmare](Damage/Nightmare.md)<br>[Witcher](Damage/Witcher.md)<br>[Taker](Damage/Taker.md)<br>[Heavy Knight](Damage/HeavyKnight.md)<br>[Pakarat Rakab](Damage/PakaratRakab.md)<br>[Bloodfiend](Damage/Bloodfiend.md)<br>[Zealot](Damage/Zealot.md)<br>[Rogue](Damage/Rogue.md) | [Archer](Range/Archer.md)<br>[Spark](Range/Spark.md)<br>[Swooper](Range/Swooper.md) | [Mage](Magic/Mage.md)<br>[Dark Mage](Magic/DarkMage.md) | Blast Knight | Ender<br>Ninja<br>Bounty Hunter | Alchemmist<br>Troll<br>Dr. Ed<br>Shadow Assassin<br>Vortex<br>Tamer<br>Shark<br>Harbinger<br>Engineer | Shaman | Frostbite<br>Juju<br>Cryptshade
 
 <!-- <table style="width: 100%">
     <tr>

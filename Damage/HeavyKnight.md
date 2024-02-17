@@ -1,73 +1,73 @@
-<table style="width: 100%">
+<table>
     <tr>
-        <th style="text-align: center;font-size: 40px">Heavy Knight</th>
+        <th>Heavy Knight</th>
     </tr>
 </table>
 
 ![Heavy Knight Selfie](HeavyKnight.png)
 
-<table style="width: 100%">
+<table>
     <tr>
-        <th style="text-align: center;font-size: 30px;padding-top:2%">Description</th>
+        <th>Description</th>
     </tr>
 </table>
 
 >No description provided.
-<br><br>Archetype:<span style="color:darkred"><b> 💢 Damage</b>
+<br><br>Archetype:<b> 💢 Damage</b>
 
 
 <br>
-<table style="width: 100%">
+<table>
     <tr>
-        <th style="text-align: center;font-size: 40px">Attributes</th>
+        <th>Attributes</th>
     </tr>
 </table>
-<table style="width: 100%;">
+<table>
   <tr>
-    <th style="text-align: center;font-size: 25px">Health</th>
-    <td style="text-align: center;color:red;font-size: 30px">♥ 100</td>
+    <th>Health</th>
+    <td>♥ 100</td>
   </tr>
-    <th style="text-align: center;font-size: 25px">Attack</th>
-    <td style="text-align: center;color:darkred;font-size: 30px">🗡 100</td>
+    <th>Attack</th>
+    <td>🗡 100</td>
   <tr>
-    <th style="text-align: center;font-size: 25px">Defence</th>
-    <td style="text-align: center;color:green;font-size: 30px">🛡 150</td>
+    <th>Defence</th>
+    <td>🛡 150</td>
   </tr>
   <tr>
-    <th style="text-align: center;font-size: 25px">Speed</th>
-    <td style="text-align: center;color:red;font-size: 30px">
-        <span style="color:lightblue">🌊 80%
+    <th>Speed</th>
+    <td>
+        🌊 80%
     </td>
   </tr>
   <tr>
-    <th style="text-align: center;font-size: 25px">Crit Chance</th>
-    <td style="text-align: center;color:red;font-size: 30px">
-        <span style="color:#5555ff">☢ 10%
+    <th>Crit Chance</th>
+    <td>
+        ☢ 10%
     </td>
   </tr>
   <tr>
-    <th style="text-align: center;font-size: 25px">Crit Damage</th>
-    <td style="text-align: center;color:red;font-size: 30px">
-        <span style="color:#5555ff">☠ 50%
+    <th>Crit Damage</th>
+    <td>
+        ☠ 50%
     </td>
   </tr>
   <tr>
-    <th style="text-align: center;font-size: 25px">Attack Speed</th>
-    <td style="text-align: center;color:red;font-size: 30px">
-        <span style="color:#ffff55">⚔ 25%
+    <th>Attack Speed</th>
+    <td>
+        ⚔ 25%
     </td>
   </tr>
 </table>
 <br>
 
-<table style="width: 100%">
+<table>
     <tr>
-        <th style="text-align: center;font-size: 40px">Weapon</th>
+        <th>Weapon</th>
     </tr>
 </table>
-<table style="width: 100%">
+<table>
     <tr>
-        <td style="text-align: center;font-size: 25px;color:green"><b>Basta</b>
+        <td><b>Basta</b>
         </td>
         <td>A royal claymore.
         <br><br><i>This thing was too big to be called a sword.</i>
@@ -78,146 +78,128 @@
     </tr>
 </table>
 
-<table style="width: 100%">
+<table>
     <tr>
-        <th style="text-align: center;font-size: 40px">Talents</th>
+        <th>Talents</th>
     </tr>
 </table>
 
 ---
-<table style="width: 100%;">
+<table>
   <tr>
-    <th style="text-align: left;font-size: 30px;color:green">Uppercut</th>
+    <th>Uppercut</th>
     <th></th>
   </tr>
   <tr>
-    <td style="text-align: left;color:gray;font-size: 25px">
+    <td>
         Impair Talent
         <br>
-        <span style="color:white">
             Perform an <u>uppercut</u> attack, <b>jumping</b> up with <b>enemies</b> in front you.
             <br><br>Hit <b>enemiews</b> fall down <b>slowly</b>, <b>impairing</b> their movement.
-        </span>
     </td>
-    <td style="text-align: left;color:gray;font-size: 25px;width:50%">
+    <td>
         Details
         <br>
-        <span style="color:darkgray">
-            <span style="color:white">Impair</span>
+            Impair
             <br>
                 Weaken enemies by debuffing them.
             <br>
-            <br>Cooldown: <span style="color:white">6s</span>
-            <br>Duration: <span style="color:white">1s</span>
-            <br>Point Generation: <span style="color:white">1</span>
-            <br>Range: <span style="color:white">5</span>
-            <br>Height: <span style="color:white">3</span>
-            <br>Damage: <span style="color:white">5</span>
-        </span>
+            <br>Cooldown: 6s
+            <br>Duration: 1s
+            <br>Point Generation: 1
+            <br>Range: 5
+            <br>Height: 3
+            <br>Damage: 5
     </td>
   </tr>
 
   <tr>
-    <th style="text-align: left;font-size: 30px;color:green">Touchdown</th>
+    <th>Touchdown</th>
     <th></th>
   </tr>
   <tr>
-    <td style="text-align: left;color:gray;font-size: 25px">
+    <td>
         Damage Talent
         <br>
-        <span style="color:white">
             While <u>airborne</u>, perform a devastating <b>plunging</b> attack, dealing <b>damage</b> upon <u>landing</u>.
             <br><br>If there are <b>enemies</b> at the <u>same</u> <u>height</u> level as you, push them down.
-        </span>
     </td>
-    <td style="text-align: left;color:gray;font-size: 25px;width:50%">
+    <td>
         Details
         <br>
-        <span style="color:darkgray">
-            <span style="color:white">Damage</span>
+            Damage
             <br>
                 Deals damage to enemies.
             <br>
-            <br>Cooldown: <span style="color:white">8s</span>
-            <br>Duration: <span style="color:white">1.1s</span>
-            <br>Point Generation: <span style="color:white">1</span>
-            <br>Radius: <span style="color:white">4</span>
-            <br>Plunge Radius: <span style="color:white">5</span>
-            <br>Plunge Damage: <span style="color:white">7.5</span>
-            <br>Max Plunging Time: <span style="color:white">10s</span>
-        </span>
+            <br>Cooldown: 8s
+            <br>Duration: 1.1s
+            <br>Point Generation: 1
+            <br>Radius: 4
+            <br>Plunge Radius: 5
+            <br>Plunge Damage: 7.5
+            <br>Max Plunging Time: 10s
     </td>
   </tr>
 
   <tr>
-    <th style="text-align: left;font-size: 30px;color:green">Slash</th>
+    <th>Slash</th>
     <th></th>
   </tr>
   <tr>
-    <td style="text-align: left;color:gray;font-size: 25px">
+    <td>
         Damage Talent
         <br>
-        <span style="color:white">
             Perform a <b>slash</b> attack in front of you, <b>damaging</b> and knocking all <b>enemies</b> in small AoE.
-        </span>
     </td>
-    <td style="text-align: left;color:gray;font-size: 25px;width:50%">
+    <td>
         Details
         <br>
-        <span style="color:darkgray">
-            <span style="color:white">Damage</span>
+            Damage
             <br>
                 Deals damage to enemies.
             <br>
-            <br>Cooldown: <span style="color:white">8s</span>
-            <br>Point Generation: <span style="color:white">1</span>
-            <br>Distance: <span style="color:white">3</span>
-            <br>Effect Duration: <span style="color:white">4s</span>
-            <br>Damage: <span style="color:white">6</span>
-            <br>Strong Damage: <span style="color:white">10</span>
-        </span>
+            <br>Cooldown: 8s
+            <br>Point Generation: 1
+            <br>Distance: 3
+            <br>Effect Duration: 4s
+            <br>Damage: 6
+            <br>Strong Damage: 10
     </td>
   </tr>
 
   <tr>
-    <th style="text-align: left;font-size: 30px;color:green">Perfect Sequence</th>
+    <th>Perfect Sequence</th>
     <th></th>
   </tr>
   <tr>
-    <td style="text-align: left;color:gray;font-size: 25px">
+    <td>
         Enhance Passive
         <br>
-        <span style="color:white">
             Using <b>Uppercut</b> > <b>Touchdown</b> > <b>Slash</b> in quick <u><b>succession</b></u> <b>empowers</b> and <u>resets</u> the cooldown of <b>Slash</b>
-        </span>
     </td>
     <td></td>
   </tr>
 
   <tr>
-    <th style="text-align: left;font-size: 30px;color:green">Ultimate Sacrifice</th>
+    <th>Ultimate Sacrifice</th>
     <th></th>
   </tr>
   <tr>
-    <td style="text-align: left;color:gray;font-size: 25px">
+    <td>
         Enhance Ultimate
         <br>
-        <span style="color:white">
             Instantly drop <u>all</u> your <b>armor</b> in exchange for more <b>power</b>, becoming a glass cannon.
-        </span>
     </td>
-    <td style="text-align: left;color:gray;font-size: 25px;width:50%">
+    <td>
         Details
         <br>
-        <span style="color:darkgray">
-            <span style="color:white">Enhance</span>
+            Enhance
             <br>
                 Strengthen yourself for the battle.
             <br>
-            <br>Duration: <span style="color:white">3s</span>
-            <br>Ultimate Cost: <span style="color:white">60 ※</span>
-            <br>Cast Duration: <span style="color:white">Instant</span>
-        </span>
+            <br>Duration: 3s
+            <br>Ultimate Cost: 60 ※
+            <br>Cast Duration: Instant
     </td>
   </tr>
 </table>

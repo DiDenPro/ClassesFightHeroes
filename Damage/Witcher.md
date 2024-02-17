@@ -1,276 +1,215 @@
 
-<table style="width: 100%">
+<table>
     <tr>
-        <th style="text-align: center;font-size: 40px">The Witcher</th>
+        <th>The Witcher</th>
     </tr>
 </table>
 
 ![The Witcher Selfie](Witcher.png)
 
-<table style="width: 100%">
+<table>
     <tr>
-        <th style="text-align: center;font-size: 30px;padding-top:2%">Description</th>
+        <th>Description</th>
     </tr>
 </table>
 
 >Some say that he's the most trained Witcher ever; Well in any kind of magic...
-<br><br>Archetype: 💢<span style="color:darkred"> <b>Damage</b>
+<br><br>Archetype: 💢<b>Damage</b>
 
 
 <br>
-<table style="width: 100%">
+<table>
     <tr>
-        <th style="text-align: center;font-size: 40px">Attributes</th>
+        <th>Attributes</th>
     </tr>
 </table>
-<table style="width: 100%;">
+<table>
   <tr>
-    <th style="text-align: center;font-size: 25px">Health</th>
-    <td style="text-align: center;color:red;font-size: 30px">♥ 100</td>
+    <th>Health</th>
+    <td>♥ 100</td>
   </tr>
-    <th style="text-align: center;font-size: 25px">Attack</th>
-    <td style="text-align: center;color:darkred;font-size: 30px">🗡 100</td>
+    <th>Attack</th>
+    <td>🗡 100</td>
   <tr>
-    <th style="text-align: center;font-size: 25px">Defence</th>
-    <td style="text-align: center;color:green;font-size: 30px">🛡 100</td>
-  </tr>
-  <tr>
-    <th style="text-align: center;font-size: 25px">Speed</th>
-    <td style="text-align: center;color:red;font-size: 30px">
-        <span style="color:lightblue">🌊 100%
-    </td>
+    <th>Defence</th>
+    <td>🛡 100</td>
   </tr>
   <tr>
-    <th style="text-align: center;font-size: 25px">Crit Chance</th>
-    <td style="text-align: center;color:red;font-size: 30px">
-        <span style="color:#5555ff">☢ 10%
-    </td>
+    <th>Speed</th>
+    <td>🌊 100%</td>
   </tr>
   <tr>
-    <th style="text-align: center;font-size: 25px">Crit Damage</th>
-    <td style="text-align: center;color:red;font-size: 30px">
-        <span style="color:#5555ff">☠ 50%
-    </td>
+    <th>Crit Chance</th>
+    <td>☢ 10%</td>
   </tr>
   <tr>
-    <th style="text-align: center;font-size: 25px">Attack Speed</th>
-    <td style="text-align: center;color:red;font-size: 30px">
-        <span style="color:#ffff55">⚔ 100%
-    </td>
+    <th>Crit Damage</th>
+    <td>☠ 50%</td>
+  </tr>
+  <tr>
+    <th>Attack Speed</th>
+    <td>⚔ 100%</td>
   </tr>
 </table>
 <br>
 
-<table style="width: 100%">
+<table>
     <tr>
-        <th style="text-align: center;font-size: 40px">Weapon</th>
+        <th>Weapon</th>
     </tr>
 </table>
-<table style="width: 100%">
+<table>
     <tr>
-        <td style="text-align: center;font-size: 25px;color:green"><b>Aerondight</b>
-        </td>
-        <td style="text-align: center;font-size: 25px;width:55%;color:white">Light, sharp as a razor, and fits the hand neatly
-        </td>
+        <td><b>Aerondight</b></td>
+        <td>Light, sharp as a razor, and fits the hand neatly</td>
     </tr>
 </table>
 
-<table style="width: 100%">
+<table>
     <tr>
-        <th style="text-align: center;font-size: 40px">Talents</th>
+        <th>Talents</th>
     </tr>
 </table>
 
 ---
-<table style="width: 100%;">
+<table>
   <tr>
-    <th style="text-align: left;font-size: 30px;color:green">Aard</th>
+    <th>Aard</th>
     <th></th>
   </tr>
   <tr>
-    <td style="text-align: left;color:gray;font-size: 25px">
+    <td>
         Impair Talent
-        <br>
-        <span style="color:white">
-            Creates a <u>small explosion</u> in front of you that <b>pushes enemies</b> away.
-        </span>
+        <br>Creates a <u>small explosion</u> in front of you that <b>pushes enemies</b> away.
     </td>
-    <td style="text-align: left;color:gray;font-size: 25px;width:50%">
+    <td>
         Details
-        <br>
-        <span style="color:darkgray">
-            <span style="color:white">Impair</span>
-            <br>
-                Weaken enemies by debuffing them.
-            <br>
-            <br>Cooldown: <span style="color:white">5s</span>
-            <br>Point Generation: <span style="color:white">1</span>
-            <br>Radius: <span style="color:white">4</span>
-            <br><br><br>
-        </span>
+        <br>Impair
+        <br>Weaken enemies by debuffing them.
+        <br><br>Cooldown: 5s
+        <br>Point Generation: 1
+        <br>Radius: 4
+        <br><br><br> 
     </td>
   </tr>
 
   <tr>
-    <th style="text-align: left;font-size: 30px;color:green">Igni</th>
+    <th>Igni</th>
     <th></th>
   </tr>
   <tr>
-    <td style="text-align: left;color:gray;font-size: 25px">
+    <td>
         Damage Talent
-        <br>
-        <span style="color:white">
-            FIre <b>blazing spirits</b> in front of you that deal <b>AoE damage</b> and set <b>enemies</b> on <b>fire</b>.
-        </span>
+        <br>FIre <b>blazing spirits</b> in front of you that deal <b>AoE damage</b> and set <b>enemies</b> on <b>fire</b>.
     </td>
-    <td style="text-align: left;color:gray;font-size: 25px;width:50%">
+    <td>
         Details
-        <br>
-        <span style="color:darkgray">
-            <span style="color:white">Damage</span>
-            <br>
-                Deals damage to enemies.
-            <br>
-            <br>Cooldown: <span style="color:white">10s</span>
-            <br>Point Generation: <span style="color:white">1</span>
-            <br>Maximum Distance: <span style="color:white">4</span>
-            <br>Damage closest: <span style="color:white">5</span>
-            <br>Fire Duration Closest: <span style="color:white">3s</span>
-            <br>Damage Medium: <span style="color:white">3.5</span>
-            <br>Fire Ticks Medium: <span style="color:white">2s</span>
-            <br>Damage Further: <span style="color:white">2</span>
-            <br>Fire Ticks Further: <span style="color:white">1s</span>
-        </span>
+        <br>Damage
+        <br>Deals damage to enemies.
+        <br><br>Cooldown: 10s
+        <br>Point Generation: 1
+        <br>Maximum Distance: 4
+        <br>Damage closest: 5
+        <br>Fire Duration Closest: 3s
+        <br>Damage Medium: 3.5
+        <br>Fire Ticks Medium: 2s
+        <br>Damage Further: 2
+        <br>Fire Ticks Further: 1s
     </td>
   </tr>
   
   <tr>
-    <th style="text-align: left;font-size: 30px;color:green">Quen</th>
+    <th>Quen</th>
     <th></th>
   </tr>
   <tr>
-    <td style="text-align: left;color:gray;font-size: 25px">
+    <td>
         Defence Talent
-        <br>
-        <span style="color:white">
-            Applies <u>two charges</u> of Quen shield that <i>blocks</i> any damage.
-        </span>
+        <br>Applies <u>two charges</u> of Quen shield that <i>blocks</i> any damage.
     </td>
-    <td style="text-align: left;color:gray;font-size: 25px;width:50%">
+    <td>
         Details
-        <br>
-        <span style="color:darkgray">
-            <span style="color:white">Defence</span>
-            <br>
-                Provides shields for yourself and allies.
-            <br>
-            <br>Cooldown: <span style="color:white">30s</span>
-            <br>Point Generation: <span style="color:white">3</span>
-        </span>
+        <br>Defence
+        <br>Provides shields for yourself and allies.
+        <br><br>Cooldown: 30s
+        <br>Point Generation: 3
     </td>
   </tr>
 
   <tr>
-    <th style="text-align: left;font-size: 30px;color:green">Axii</th>
+    <th>Axii</th>
     <th></th>
   </tr>
   <tr>
-    <td style="text-align: left;color:gray;font-size: 25px">
+    <td>
         Impair Talent
-        <br>
-        <span style="color:white">
-            Stun the <b>target</b> enemy for <b>5s</b> or until they <u>get</u> hit.
-        </span>
+        <br>Stun the <b>target</b> enemy for <b>5s</b> or until they <u>get</u> hit.
     </td>
-    <td style="text-align: left;color:gray;font-size: 25px;width:50%">
+    <td>
         Details
-        <br>
-        <span style="color:darkgray">
-            <span style="color:white">Impair</span>
-            <br>
-                Weaken enemies by debuffing them.
-            <br>
-            <br>Cooldown: <span style="color:white">40s</span>
-            <br>Duration: <span style="color:white">5s</span>
-            <br>Point Generation: <span style="color:white">3</span>
-        </span>
+        <br>Impair
+        <br>Weaken enemies by debuffing them.
+        <br><br>Cooldown: 40s
+        <br>Duration: 5s
+        <br>Point Generation: 3
     </td>
   </tr>
 
   <tr>
-    <th style="text-align: left;font-size: 30px;color:green">Yrden</th>
+    <th>Yrden</th>
     <th></th>
   </tr>
   <tr>
-    <td style="text-align: left;color:gray;font-size: 25px">
+    <td>
         Impair Talent
-        <br>
-        <span style="color:white">
-            Creates <b>Yrden</b> aura at your current location.
-        </span>
+        <br>Creates <b>Yrden</b> aura at your current location.
         <br><br><b>Enemies</b> <u>inside</u> the aura are <b>impaired</b> and aren't affected by <b>knockback</b>.
     </td>
-    <td style="text-align: left;color:gray;font-size: 25px;width:50%">
+    <td>
         Details
-        <br>
-        <span style="color:darkgray">
-            <span style="color:white">Impair</span>
-            <br>
-                Weaken enemies by debuffing them.
-            <br>
-            <br>Cooldown: <span style="color:white">25s</span>
-            <br>Duration: <span style="color:white">10s</span>
-            <br>Point Generation: <span style="color:white">2</span>
-            <br>Radius: <span style="color:white">3.5</span>
-            <br>Defence Reduction: <span style="color:white">0.5</span>
-            <br>Speed Reduction: <span style="color:white">0.0</span>
-            <br>Impair Duration: <span style="color:white">0.5s</span>
-        </span>
+        <br>Impair
+        <br>Weaken enemies by debuffing them.
+        <br><br>Cooldown: 25s
+        <br>Duration: 10s
+        <br>Point Generation: 2
+        <br>Radius: 3.5
+        <br>Defence Reduction: 0.5
+        <br>Speed Reduction: 0.0
+        <br>Impair Duration: 0.5s
     </td>
   </tr>
 
   <tr>
-    <th style="text-align: left;font-size: 30px;color:green">Combo</th>
+    <th>Combo</th>
     <th></th>
   </tr>
   <tr>
-    <td style="text-align: left;color:gray;font-size: 25px">
+    <td>
         Enhance Passive
-        <br>
-        <span style="color:white">
-            Dealing <b>continuous damage</b> ti the <b>same target</b> will increase your combo.
-            <br><br>Greater combo hits deal <b>increase damage</b>.
-        </span>
+        <br>Dealing <b>continuous damage</b> ti the <b>same target</b> will increase your combo.
+        <br><br>Greater combo hits deal <b>increase damage</b>.
     </td>
     <td></td>
   </tr>
 
   <tr>
-    <th style="text-align: left;font-size: 30px;color:green">All the Trainings</th>
+    <th>All the Trainings</th>
     <th></th>
   </tr>
   <tr>
-    <td style="text-align: left;color:gray;font-size: 25px">
+    <td>
         Enhance Ultimate
-        <br>
-        <span style="color:white">
-            Remember all your trainings and unleash them at once.
-            <br><br>Gaining a <b>🛡 Defence</b> incr4ease and the Yrden aura that follows you for <b>10s</b>.
-            <br><i>After the duration ends, Quen and Yrden start their cooldown</i>
-        </span>
+        <br>Remember all your trainings and unleash them at once.
+        <br><br>Gaining a <b>🛡 Defence</b> incr4ease and the Yrden aura that follows you for <b>10s</b>.
+        <br><i>After the duration ends, Quen and Yrden start their cooldown</i>
     </td>
-    <td style="text-align: left;color:gray;font-size: 25px;width:50%">
+    <td>
         Details
-        <br>
-        <span style="color:darkgray">
-            <span style="color:white">Enhance</span>
-            <br>
-                Strengthen yourself for the battle.
-            <br>
-            <br>Cooldown: <span style="color:white">10s</span>
-            <br>Ultimate Cost: <span style="color:white">80 ※</span>
-            <br>Cast Duration: <span style="color:white">Instant</span>
-        </span>
+        <br>Enhance
+        <br>Strengthen yourself for the battle.
+        <br><br>Cooldown: 10s
+        <br>Ultimate Cost: 80 ※
+        <br>Cast Duration: Instant
     </td>
   </tr>
 </table>

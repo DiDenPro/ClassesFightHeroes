@@ -1,186 +1,148 @@
-<table style="width: 100%">
+<table>
     <tr>
-        <th style="text-align: center;font-size: 40px">Archer</th>
+        <th>Archer</th>
     </tr>
 </table>
 
 ![Archer Selfie](Archer.png)
 
-<table style="width: 100%">
+<table>
     <tr>
-        <th style="text-align: center;font-size: 30px;padding-top:2%">Description</th>
+        <th>Description</th>
     </tr>
 </table>
 
 >One of the best archers joins the fight!
 <br>Not alonethoughbut with his <b>custom-made</b> bow.
-<br><br>Archetype:<span style="color:lightblue"><b> 🎯 Range</b>
+<br><br>Archetype:<b> 🎯 Range</b>
 
 
 <br>
-<table style="width: 100%">
+<table>
     <tr>
-        <th style="text-align: center;font-size: 40px">Attributes</th>
+        <th>Attributes</th>
     </tr>
 </table>
-<table style="width: 100%;">
+<table>
   <tr>
-    <th style="text-align: center;font-size: 25px">Health</th>
-    <td style="text-align: center;color:red;font-size: 30px">♥ 100</td>
+    <th>Health</th>
+    <td>♥ 100</td>
   </tr>
-    <th style="text-align: center;font-size: 25px">Attack</th>
-    <td style="text-align: center;color:darkred;font-size: 30px">🗡 100</td>
+    <th>Attack</th>
+    <td>🗡 100</td>
   <tr>
-    <th style="text-align: center;font-size: 25px">Defence</th>
-    <td style="text-align: center;color:green;font-size: 30px">🛡 80</td>
-  </tr>
-  <tr>
-    <th style="text-align: center;font-size: 25px">Speed</th>
-    <td style="text-align: center;color:red;font-size: 30px">
-        <span style="color:lightblue">🌊 115%
-    </td>
+    <th>Defence</th>
+    <td>🛡 80</td>
   </tr>
   <tr>
-    <th style="text-align: center;font-size: 25px">Crit Chance</th>
-    <td style="text-align: center;color:red;font-size: 30px">
-        <span style="color:#5555ff">☢ 10%
-    </td>
+    <th>Speed</th>
+    <td>🌊 115%</td>
   </tr>
   <tr>
-    <th style="text-align: center;font-size: 25px">Crit Damage</th>
-    <td style="text-align: center;color:red;font-size: 30px">
-        <span style="color:#5555ff">☠ 50%
-    </td>
+    <th>Crit Chance</th>
+    <td>☢ 10%</td>
   </tr>
   <tr>
-    <th style="text-align: center;font-size: 25px">Attack Speed</th>
-    <td style="text-align: center;color:red;font-size: 30px">
-        <span style="color:#ffff55">⚔ 100%
-    </td>
+    <th>Crit Damage</th>
+    <td>☠ 50%</td>
+  </tr>
+  <tr>
+    <th>Attack Speed</th>
+    <td>⚔ 100%</td>
   </tr>
 </table>
 <br>
 
-<table style="width: 100%">
+<table>
     <tr>
-        <th style="text-align: center;font-size: 40px">Weapon</th>
+        <th>Weapon</th>
     </tr>
 </table>
-<table style="width: 100%">
+<table>
     <tr>
-        <td style="text-align: center;font-size: 25px;color:green"><b>Weapon</b>
-        </td>
-        <td style="text-align: center;font-size: 25px;width:55%;color:white">
-          A custom-made bow with some unique abilities!
-        </td>
+        <td><b>Weapon</b></td>
+        <td>A custom-made bow with some unique abilities!</td>
     </tr>
 </table>
 
-<table style="width: 100%">
+<table>
     <tr>
-        <th style="text-align: center;font-size: 40px">Talents</th>
+        <th>Talents</th>
     </tr>
 </table>
 
 ---
-<table style="width: 100%;">
+<table>
   <tr>
-    <th style="text-align: left;font-size: 30px;color:green">Triple Shot</th>
+    <th>Triple Shot</th>
     <th></th>
   </tr>
   <tr>
-    <td style="text-align: left;color:gray;font-size: 25px">
+    <td>
         Damage Talent
-        <br>
-        <span style="color:white">
-            Shoots three arrows in front of you.
-            <br>Two additional arrows deal 50% of onrmal damage.
-        </span>
+        <br>Shoots three arrows in front of you.
+        <br>Two additional arrows deal 50% of onrmal damage.
     </td>
-    <td style="text-align: left;color:gray;font-size: 25px;width:50%">
+    <td>
         Details
-        <br>
-        <span style="color:darkgray">
-            <span style="color:white">Damage</span>
-            <br>
-                Deals daamge to enemies.
-            <br>
-            <br>Cooldown: <span style="color:white">3.8s</span>
-            <br>Spread: <span style="color:white">5 degree</span>
-        </span>
+        <br>Damage
+        <br>Deals daamge to enemies.
+        <br><br>Cooldown: 3.8s
+        <br>Spread: 5 degree
     </td>
   </tr>
 
   <tr>
-    <th style="text-align: left;font-size: 30px;color:green">Shock Dart</th>
+    <th>Shock Dart</th>
     <th></th>
   </tr>
   <tr>
-    <td style="text-align: left;color:gray;font-size: 25px">
+    <td>
         Damage Talent
-        <br>
-        <span style="color:white">
-            Shoots an arrow infused with shicking power. Upon hit, Charges and explodes dealing damage based on distance.
-        </span>
+        <br>Shoots an arrow infused with shicking power. Upon hit, Charges and explodes dealing damage based on distance.
     </td>
-    <td style="text-align: left;color:gray;font-size: 25px;width:50%">
+    <td>
         Details
-        <br>
-        <span style="color:darkgray">
-            <span style="color:white">Damage</span>
-            <br>
-                Deals daamge to enemies.
-            <br>
-            <br>Cooldown: <span style="color:white">6s</span>
-            <br>Explosion Radius: <span style="color:white">3.7s</span>
-            <br>Explosion Max Damage: <span style="color:white">156</span>
-            <br>Explosion Windup: <span style="color:white">0.9s</span>
-        </span>
+        <br>Damage
+        <br>Deals daamge to enemies.
+        <br><br>Cooldown: 6s
+        <br>Explosion Radius: 3.7s
+        <br>Explosion Max Damage: 156
+        <br>Explosion Windup: 0.9s
     </td>
   </tr>
 
   <tr>
-    <th style="text-align: left;font-size: 30px;color:green">Hawkeye Arrow</th>
+    <th>Hawkeye Arrow</th>
     <th></th>
   </tr>
   <tr>
-    <td style="text-align: left;color:gray;font-size: 25px">
+    <td>
         Damage Passive
-        <br>
-        <span style="color:white">
-            Fully charged shots while sneaking have <b>25%</b> chance to fire a hawkeye arrow that homes to nearby enemies.
-        </span>
+        <br>Fully charged shots while sneaking have <b>25%</b> chance to fire a hawkeye arrow that homes to nearby enemies.
     </td>
     <td></td>
   </tr>
 
   <tr>
-    <th style="text-align: left;font-size: 30px;color:green">Boom Bow</th>
+    <th>Boom Bow</th>
     <th></th>
   </tr>
   <tr>
-    <td style="text-align: left;color:gray;font-size: 25px">
+    <td>
         Damage Ultimate
-        <br>
-        <span style="color:white">
-            Equip a <b>BOOM BOW</b> for <b>6s</b> that firres explosive arrows that explode on impact dealing with massive true damage.
-        </span>
+        <br>Equip a <b>BOOM BOW</b> for <b>6s</b> that firres explosive arrows that explode on impact dealing with massive true damage.
     </td>
-    <td style="text-align: left;color:gray;font-size: 25px;width:50%">
+    <td>
         Details
-        <br>
-        <span style="color:darkgray">
-            <span style="color:white">Damage</span>
-            <br>
-                Deals damage to enemies
-            <br>
-            <br>Cooldown: <span style="color:white">20s</span>
-            <br>Duration: <span style="color:white">5s</span>
-            <br>Explosion Radius: <span style="color:white">5.0 blocks</span>
-            <br>Explosion Damage: <span style="color:white">30.0</span>
-            <br>Ultimate Cost: <span style="color:white">60 ※</span>
-            <br>Cast Duration: <span style="color:white">Instant</span>
-        </span>
+        <br>Damage
+        <br>Deals damage to enemies
+        <br><br>Cooldown: 20s
+        <br>Duration: 5s
+        <br>Explosion Radius: 5.0 blocks
+        <br>Explosion Damage: 30.0
+        <br>Ultimate Cost: 60 ※
+        <br>Cast Duration: Instant
     </td>
   </tr>
 </table>

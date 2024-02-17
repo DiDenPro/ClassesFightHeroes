@@ -1,218 +1,169 @@
-<table style="width: 100%">
+<table>
     <tr>
-        <th style="text-align: center;font-size: 40px">Pytaria</th>
+        <th>Hero</th>
     </tr>
 </table>
 
 ![Hero Selfie](Hero.png)
 
-<table style="width: 100%">
+<table>
     <tr>
-        <th style="text-align: center;font-size: 30px;padding-top:2%">Description</th>
+        <th>Description</th>
     </tr>
 </table>
 
 >Description.
-<br><br>Archetype:<span style="color:darkred"><b> 💢 Archetype</b>
+<br><br>Archetype:<b> 💢 Archetype</b>
 
 
 <br>
-<table style="width: 100%">
+<table>
     <tr>
-        <th style="text-align: center;font-size: 40px">Attributes</th>
+        <th>Attributes</th>
     </tr>
 </table>
-<table style="width: 100%;">
-  <tr>
-    <th style="text-align: center;font-size: 25px">Health</th>
-    <td style="text-align: center;color:red;font-size: 30px">♥ </td>
-  </tr>
-    <th style="text-align: center;font-size: 25px">Attack</th>
-    <td style="text-align: center;color:darkred;font-size: 30px">🗡 </td>
-  <tr>
-    <th style="text-align: center;font-size: 25px">Defence</th>
-    <td style="text-align: center;color:green;font-size: 30px">🛡 </td>
-  </tr>
-  <tr>
-    <th style="text-align: center;font-size: 25px">Speed</th>
-    <td style="text-align: center;color:red;font-size: 30px">
-        <span style="color:lightblue">🌊 %
-    </td>
-  </tr>
-  <tr>
-    <th style="text-align: center;font-size: 25px">Crit Chance</th>
-    <td style="text-align: center;color:red;font-size: 30px">
-        <span style="color:#5555ff">☢ %
-    </td>
-  </tr>
-  <tr>
-    <th style="text-align: center;font-size: 25px">Crit Damage</th>
-    <td style="text-align: center;color:red;font-size: 30px">
-        <span style="color:#5555ff">☠ %
-    </td>
-  </tr>
-  <tr>
-    <th style="text-align: center;font-size: 25px">Attack Speed</th>
-    <td style="text-align: center;color:red;font-size: 30px">
-        <span style="color:#ffff55">⚔ %
-    </td>
-  </tr>
+<table>
+    <tr>
+        <th>Health</th>
+        <td>♥ </td>
+    </tr>
+        <th>Attack</th>
+        <td>🗡 </td>
+    <tr>
+        <th>Defence</th>
+        <td>🛡 </td>
+    </tr>
+    <tr>
+        <th>Speed</th>
+        <td>🌊 %</td>
+    </tr>
+    <tr>
+        <th>Crit Chance</th>
+        <td>☢ %</td>
+    </tr>
+    <tr>
+        <th>Crit Damage</th>
+        <td>☠ %</td>
+    </tr>
+    <tr>
+        <th>Attack Speed</th>
+        <td>⚔ %</td>
+    </tr>
 </table>
 <br>
 
-<table style="width: 100%">
+<table>
     <tr>
-        <th style="text-align: center;font-size: 40px">Weapon</th>
+        <th>Weapon</th>
     </tr>
 </table>
-<table style="width: 100%">
+<table>
     <tr>
-        <td style="text-align: center;font-size: 25px;color:green"><b>Weapon</b>
-        </td>
-        <td style="text-align: center;font-size: 25px;width:55%;color:white">Description.
-        </td>
+        <td><b>Weapon</b></td>
+        <td>Description.</td>
     </tr>
 </table>
 
-<table style="width: 100%">
+<table>
     <tr>
-        <th style="text-align: center;font-size: 40px">Talents</th>
+        <th>Talents</th>
     </tr>
 </table>
 
 ---
-<table style="width: 100%;">
-  <tr>
-    <th style="text-align: left;font-size: 30px;color:green">First</th>
-    <th></th>
-  </tr>
-  <tr>
-    <td style="text-align: left;color:gray;font-size: 25px">
-        Type Talent
-        <br>
-        <span style="color:white">
-            Description
-        </span>
-    </td>
-    <td style="text-align: left;color:gray;font-size: 25px;width:50%">
-        Details
-        <br>
-        <span style="color:darkgray">
-            <span style="color:white">Type</span>
-            <br>
-                Type Description
-            <br>
-            <br>Cooldown: <span style="color:white">N/Ds</span>
-            <br>Duration: <span style="color:white">N/Ds</span>
-            <br>Point Generation: <span style="color:white">N/D</span>
-            <br>Flower Radius: <span style="color:white">N/D blocks</span>
-            <br>Flower Damage: <span style="color:white">N/D</span>
-            <br>Pulse period: <span style="color:white">N/Ds</span>
-        </span>
-    </td>
-  </tr>
-
-  <tr>
-    <th style="text-align: left;font-size: 30px;color:green">Second</th>
-    <th></th>
-  </tr>
-  <tr>
-    <td style="text-align: left;color:gray;font-size: 25px">
-        Type Talent
-        <br>
-        <span style="color:white">
-            Description
-        </span>
-    </td>
-    <td style="text-align: left;color:gray;font-size: 25px;width:50%">
-        Details
-        <br>
-        <span style="color:darkgray">
-            <span style="color:white">Type</span>
-            <br>
-                Type Description
-            <br>
-            <br>Cooldown: <span style="color:white">N/Ds</span>
-            <br>Duration: <span style="color:white">N/Ds</span>
-            <br>Point Generation: <span style="color:white">N/D</span>
-            <br>Flower Radius: <span style="color:white">N/D blocks</span>
-            <br>Flower Damage: <span style="color:white">N/D</span>
-            <br>Pulse period: <span style="color:white">N/Ds</span>
-        </span>
-    </td>
-  </tr>
-
-  <tr>
-    <th style="text-align: left;font-size: 30px;color:green">Third</th>
-    <th></th>
-  </tr>
-  <tr>
-    <td style="text-align: left;color:gray;font-size: 25px">
-        Type Talent
-        <br>
-        <span style="color:white">
-            Description
-        </span>
-    </td>
-    <td style="text-align: left;color:gray;font-size: 25px;width:50%">
-        Details
-        <br>
-        <span style="color:darkgray">
-            <span style="color:white">Type</span>
-            <br>
-                Type Description
-            <br>
-            <br>Cooldown: <span style="color:white">N/Ds</span>
-            <br>Duration: <span style="color:white">N/Ds</span>
-            <br>Point Generation: <span style="color:white">N/D</span>
-            <br>Flower Radius: <span style="color:white">N/D blocks</span>
-            <br>Flower Damage: <span style="color:white">N/D</span>
-            <br>Pulse period: <span style="color:white">N/Ds</span>
-        </span>
-    </td>
-  </tr>
-
-  <tr>
-    <th style="text-align: left;font-size: 30px;color:green">Passive</th>
-    <th></th>
-  </tr>
-  <tr>
-    <td style="text-align: left;color:gray;font-size: 25px">
-        Type Passive
-        <br>
-        <span style="color:white">
-            Description
-        </span>
-    </td>
-    <td></td>
-  </tr>
-
-  <tr>
-    <th style="text-align: left;font-size: 30px;color:green">Ultimate</th>
-    <th></th>
-  </tr>
-  <tr>
-    <td style="text-align: left;color:gray;font-size: 25px">
-        Type Ultimate
-        <br>
-        <span style="color:white">
-            Description
-        </span>
-    </td>
-    <td style="text-align: left;color:gray;font-size: 25px;width:50%">
-        Details
-        <br>
-        <span style="color:darkgray">
-            <span style="color:white">Type</span>
-            <br>
-                Deals damage to enemies
-            <br>
-            <br>Cooldown: <span style="color:white">50s</span>
-            <br>Duration: <span style="color:white">3s</span>
-            <br>Health Regen Percent: <span style="color:white">40</span>
-            <br>Ultimate Cost: <span style="color:white">60 ※</span>
-            <br>Cast Duration: <span style="color:white">2.5s</span>
-        </span>
-    </td>
-  </tr>
+<table>
+    <tr>
+        <th>First</th>
+        <th></th>
+    </tr>
+    <tr>
+        <td>
+            Type Talent
+            <br>Description
+        </td>
+      <td>
+          Details
+          <br>Type
+          <br>Type Description
+          <br><br>Cooldown: N/Ds
+          <br>Duration: N/Ds
+          <br>Point Generation: N/D
+          <br>Flower Radius: N/D blocks
+          <br>Flower Damage: N/D
+          <br>Pulse period: N/Ds
+      </td>
+    </tr>
+    <tr>
+        <th>Second</th>
+        <th></th>
+    </tr>
+    <tr>
+        <td>
+            Type Talent
+            <br>Description
+        </td>
+        <td>
+            Details
+            <br>Type
+            <br>Type Description
+            <br><br>Cooldown: N/Ds
+            <br>Duration: N/Ds
+            <br>Point Generation: N/D
+            <br>Flower Radius: N/D blocks
+            <br>Flower Damage: N/D
+            <br>Pulse period: N/Ds
+        </td>
+    </tr>
+    <tr>
+        <th>Third</th>
+        <th></th>
+    </tr>
+    <tr>
+        <td>
+            Type Talent
+            <br>Description
+        </td>
+        <td>
+            Details
+            <br>Type
+            <br>Type Description
+            <br><br>Cooldown: N/Ds
+            <br>Duration: N/Ds
+            <br>Point Generation: N/D
+            <br>Flower Radius: N/D blocks
+            <br>Flower Damage: N/D
+            <br>Pulse period: N/Ds
+        </td>
+    </tr>
+    <tr>
+        <th>Passive</th>
+        <th></th>
+    </tr>
+    <tr>
+        <td>
+            Type Passive
+            <br>Description
+        </td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>Ultimate</th>
+        <th></th>
+    </tr>
+    <tr>
+        <td>
+            Type Ultimate
+            <br>Description
+        </td>
+        <td>
+            Details
+            <br>Type
+            <br>Deals damage to enemies
+            <br><br>Cooldown: 50s
+            <br>Duration: 3s
+            <br>Health Regen Percent: 40
+            <br>Ultimate Cost: 60 ※
+            <br>Cast Duration: 2.5s
+        </td>
+    </tr>
 </table>
