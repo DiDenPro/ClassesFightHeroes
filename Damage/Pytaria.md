@@ -4,7 +4,7 @@
     </tr>
 </table>
 
-![Pytaria Selfie](Pytaria.png)
+![Pytaria Selfie](Pytaria.gif)
 
 <table>
     <tr>
