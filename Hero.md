@@ -159,11 +159,11 @@
             Details
             <br>Type
             <br>Deals damage to enemies
-            <br><br>Cooldown: 50s
-            <br>Duration: 3s
-            <br>Health Regen Percent: 40
-            <br>Ultimate Cost: 60 ※
-            <br>Cast Duration: 2.5s
+            <br><br>Cooldown: s
+            <br>Duration: s
+            <br>Health Regen Percent: 
+            <br>Ultimate Cost:  ※
+            <br>Cast Duration: s
         </td>
     </tr>
 </table>
