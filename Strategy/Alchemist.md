@@ -13,7 +13,7 @@
 </table>
 
 >An alchemist who was deceived by the creation of the abyss.
-<br><br>Archetype:<b> 💢 Archetype</b>
+<br><br>Archetype:<b> 💡 Strategy</b>
 
 
 <br>
