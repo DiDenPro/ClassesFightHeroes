@@ -13,7 +13,7 @@
 </table>
 
 >A royal knight with high-end technology gadgets.
-<br><br>Archetype:<b> 🛡 Defence</b>
+<br><br>Archetype:<b> 🍀 Support</b>
 
 
 <br>

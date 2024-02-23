@@ -1,23 +1,236 @@
+@font-face {
+  font-family: 'Minecraft';
+  src: url('../font/minecraft.ttf');
+}
 body{
-  margin:0;
-  font-family: "Montserrat",sans-serif;
   background-color: #353535;
-}
-header{
-  margin-top: 3em;
-  text-align: center;
-  color:white;
-}
-header h1{
-  font-size:2em;
-  font-weight: 900;
+  margin:0;
+  padding:0;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  height:100vh;
+  overflow-y: hidden;
 }
 
-#container3D canvas{
-  width:auto !important;
-  height: auto !important;
-  position:absolute;
-  padding-top: 200px;
-  top:0;
-  left:0;
+.center-container{
+  text-align:center;
+  position: relative;
+}
+
+.centered-image{
+  width:auto;
+  height: 100vh;
+  max-height: 100vh;
+}
+
+.player-preview{
+  position: absolute;
+  top: 27%;
+  left:4%;
+  transform: translate(0,-50%);
+  background-color: #000000;
+  height:42vh;
+  width:32%;
+  border: 5px solid #8b8b8b;
+}
+.player{
+  align-items: center;
+}
+.player-lore{
+  position: absolute;
+  top: 27%;
+  left:39%;
+  transform: translate(0,-50%);
+  background-color: #9b9b9b;
+  height:42vh;
+  width:56%;
+  border: 5px solid #8b8b8b;
+}
+
+.gif-container{
+  width:100%;
+  height:100%;
+}
+.name{
+  padding-top:1%;
+  width:100%;
+  height: 10%;
+  font-family: 'Minecraft';
+  font-size: 3vh;
+  font-weight: 800;
+}
+.lore{
+  width:96%;
+  height:90%;
+  margin-left: 2%;
+  font-family: 'Minecraft';
+  text-align: left;
+  font-size: 2vh;
+}
+.weapon{
+  position: absolute;
+  width: 5vw;
+  height: 5vw;
+  top: 59.5%;
+  left: 42%;
+  align-items: center;
+}
+
+.weapon-size{
+  width: 150%;
+  height:150%;  
+  padding: 5%;
+  padding-left: 10%;
+}
+
+.weapon-lore{
+  display: none;
+  position: absolute;
+  background-color: rgb(0, 0, 10);
+  opacity: 90%;
+  padding: 10px;
+  z-index: 999;
+  left:55%;
+  top:62%;
+  max-width:30%;
+  height: auto;
+  border: 2px solid blue;
+  font-family: 'Minecraft';
+  text-align: left;
+}
+.weapon:hover + .weapon-lore{
+display: block;
+}
+
+.ability1{
+  position: absolute;
+  width: 5vw;
+  height: 5vw;
+  top: 79.5%;
+  left: 11%;
+  align-items: center;
+}
+.ability1-size{
+  width: 150%;
+  height:150%;  
+  padding: 5%;
+  padding-left: 10%;
+}
+.ability1-lore{
+  display: none;
+  position: absolute;
+  background-color: rgb(0, 0, 10);
+  opacity: 90%;
+  padding: 10px;
+  z-index: 999;
+  left:3%;
+  top:56.3%;
+  max-width:30%;
+  height: auto;
+  border: 2px solid blue;
+  font-family: 'Minecraft';
+  text-align: left;
+}
+.ability1:hover + .ability1-lore{
+display: block;
+}
+
+.ability2{
+  position: absolute;
+  width: 5vw;
+  height: 5vw;
+  top: 83.5%;
+  left: 34.7%;
+  align-items: center;
+}
+.ability2-size{
+  width: 80%;
+  height:80%;  
+  padding: 5%;
+  padding-left: 10%;
+}
+.ability2-lore{
+  display: none;
+  position: absolute;
+  background-color: rgb(0, 0, 10);
+  opacity: 90%;
+  padding: 10px;
+  z-index: 999;
+  left:23.5%;
+  top:67.5%;
+  max-width:30%;
+  height: auto;
+  border: 2px solid blue;
+  font-family: 'Minecraft';
+  text-align: left;
+}
+.ability2:hover + .ability2-lore{
+display: block;
+}
+
+.ability3{
+  position: absolute;
+  width: 5vw;
+  height: 5vw;
+  left: 51.7%;
+  top: 79.8%;
+  align-items: center;
+}
+.ability3-size{
+  width: 150%;
+  height:150%;  
+  padding: 5%;
+  padding-left: 10%;
+}
+.ability3-lore{
+  display: none;
+  position: absolute;
+  background-color: rgb(0, 0, 10);
+  opacity: 90%;
+  padding: 10px;
+  z-index: 999;
+  left:44%;
+  top:65.3%;
+  max-width:30%;
+  height: auto;
+  border: 2px solid blue;
+  font-family: 'Minecraft';
+  text-align: left;
+}
+.ability3:hover + .ability3-lore{
+display: block;
+}
+
+.ultimate{
+  position: absolute;
+  width: 5vw;
+  height: 5vw;
+  top: 83.5%;
+  left: 75.5%;
+  align-items: center;
+}
+.ultimate-size{
+  width: 80%;
+  height:80%;  
+  padding: 5%;
+  padding-left: 10%;
+}
+.ultimate-lore{
+  display: none;
+  position: absolute;
+  background-color: rgb(0, 0, 10);
+  opacity: 90%;
+  padding: 10px;
+  z-index: 999;
+  left:55%;
+  top:50.8%;
+  max-width:30%;
+  height: auto;
+  border: 2px solid blue;
+  font-family: 'Minecraft';
+  text-align: left;
+}
+.ultimate:hover + .ultimate-lore{
+display: block;
 }
