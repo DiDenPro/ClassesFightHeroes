@@ -149,8 +149,8 @@
     </tr>
     <tr>
         <td>
-            Daamge Ultimate
-            <br>Instantly create a <b>mech suit</b> nad pilot it for <b>25s</b>.
+            Damage Ultimate
+            <br>Instantly create a <b>mech suit</b> and pilot it for <b>25s</b>.
             <br><br>The suit provides <b>attack</b> power.
             <br><i>Looks like a wire sticking out of it, probably should keep away from water.</i>
         </td>
